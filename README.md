@@ -1,16 +1,17 @@
-### Hi there 👋
+## My name is Ayushi Agarwal
 
-<!--
-**agarwalayushii/agarwalayushii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am an junior Data Analyst at Accenture, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3
 
-Here are some ideas to get you started:
+My key skills in data science projects include EDA(Exploratory data analysis) and Machine Learning model implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+* Python
+* Machine Learning
+* Deep Learning
+* SQL
+* Tableau
+        
+
+### Contact
+![Linkedin-icon](https://user-images.githubusercontent.com/58501537/140074126-2a9c2c61-e5df-45c2-9413-ece1efd836f3.png)  https://www.linkedin.com/in/ayushi-agarwal-b64057206/
+
