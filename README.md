@@ -1,15 +1,19 @@
 ## My name is Ayushi Agarwal
 
-#### I am an junior Data Analyst at Accenture, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3
+#### I am a junior Data Analyst at Accenture, with skills in Data Science, Machine Learning, and Deep Learning. I've worked on minor projects using frameworks such as Tensorflow, Keras, Scikit-learn, and SciPy. I am also having good programming skills in Python, SQL, R, VBA and HTML along with CSS3
 
 My key skills in data science projects include EDA(Exploratory data analysis) and Machine Learning model implementation.
 
 Skills:
+* R
 * Python
 * Machine Learning
 * Deep Learning
 * SQL
+* SAAS
 * Tableau
+* Excel
+* VBA
         
 
 ### Contact
