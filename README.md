@@ -15,3 +15,4 @@ Skills:
 ### Contact
 ![Linkedin-icon](https://user-images.githubusercontent.com/58501537/140074126-2a9c2c61-e5df-45c2-9413-ece1efd836f3.png)  https://www.linkedin.com/in/ayushi-agarwal-b64057206/
 
+![github-mark](https://user-images.githubusercontent.com/123231895/213848672-ce8c26ae-6fd5-40a2-9bf8-04efe74bc6dc.png) https://github.com/agarwalayushii
